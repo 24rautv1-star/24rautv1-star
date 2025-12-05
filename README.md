@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Varad Raut</h1>
 <h3 align="center">A passionate MERN full-stack developer, blending creative UI/UX with powerful backend logic</h3>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<p>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
-</a>
+</p>
 
   
 </p> -->
