@@ -6,7 +6,7 @@
 </p>
 
 <!-- TROPHY FIXED -->
-https://github-profile-trophy.vercel.app/?username=varadisthedev&no-frame=true&no-bg=true
+https://github-profile-trophy.vercel.app/?username=varadisthedev&no-bg=true
 <!-- <p align="center">
   
 </p> -->
