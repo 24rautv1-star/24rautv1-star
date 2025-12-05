@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN full-stack developer, blending creative UI/UX with powerful backend logic</h3>
 
 <p>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=varadisthedev&column=10&theme=gruvbox&no-frame=true"/>
 </p>
 
   
