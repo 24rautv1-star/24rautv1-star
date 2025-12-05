@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN full-stack developer, blending creative UI/UX with powerful backend logic</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=varadisthedev&label=Profile%20views&color=9999FF&style=flat" alt="varadisthedev" />
+  <img src="https://komarev.com/ghpvc/?username=24rautv1-star&label=Profile%20views&color=9999FF&style=flat" alt="varadisthedev" />
 </p>
 
 <!-- TROPHY FIXED -->
