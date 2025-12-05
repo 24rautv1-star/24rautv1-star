@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Varad Raut</h1>
 <h3 align="center">A passionate MERN full-stack developer, blending creative UI/UX with powerful backend logic</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=24rautv1-star&label=Profile%20views&color=9999FF&style=flat" alt="varadisthedev" />
-</p>
-<img width=800 src="
-https://github-profile-trophy.vercel.app/?username=vardisthedev&no-bg=true"/>
-<!-- TROPHY FIXED -->
-<!-- <p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
+</a>
+
   
 </p> -->
 
