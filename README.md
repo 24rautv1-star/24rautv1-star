@@ -4,9 +4,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=24rautv1-star&label=Profile%20views&color=9999FF&style=flat" alt="varadisthedev" />
 </p>
-
+<img width=800 src="
+https://github-profile-trophy.vercel.app/?username=vardisthedev&no-bg=true"/>
 <!-- TROPHY FIXED -->
-https://github-profile-trophy.vercel.app/?username=24rautv1-star&no-bg=true
 <!-- <p align="center">
   
 </p> -->
